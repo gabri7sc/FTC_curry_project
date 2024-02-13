@@ -3,7 +3,6 @@
 import streamlit as st
 from PIL import Image
 
-
 st.set_page_config( page_title='Home', page_icon='👽' )
 
 # mage_path = 'C:/Users/gabre/DS IN PROGRESS/DS_2023/Ciclo_Basico/FTC Analisando dados com Python/FTC_pycharm/'
